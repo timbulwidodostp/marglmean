@@ -1,6 +1,8 @@
 # marglmean
 Marginal log means from regression models Use marglmean With STATA 19
 
+https://www.youtube.com/watch?v=fzsE2B3DElY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
